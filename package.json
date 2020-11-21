@@ -1,6 +1,6 @@
 {
   "name": "cepdistance-promise",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Calcule a distância entre dois CEPs",
   "main": "dist/cepdistance-promise.min.js",
   "module": "dist/cepdistance-promise.min.js",
