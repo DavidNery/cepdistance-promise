@@ -1,0 +1,31 @@
+{
+  "name": "cepdistance-promise",
+  "version": "0.0.1",
+  "description": "Calcule a distância entre dois CEPs",
+  "main": "dist/cepdistance-promise.min.js",
+  "module": "dist/cepdistance-promise.min.js",
+  "author": "David Nery",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.7",
+    "@babel/core": "^7.12.7",
+    "@babel/preset-env": "^7.12.7",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest",
+    "build": "babel src --out-dir dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DavidNery/cepdistance-promise"
+  },
+  "keywords": [
+    "cep", "distancia", "nomatim"
+  ],
+  "homepage": "https://github.com/DavidNery/cepdistance-promise"
+}
