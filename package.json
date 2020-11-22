@@ -1,9 +1,9 @@
 {
   "name": "cepdistance-promise",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Calcule a distância entre dois CEPs",
-  "main": "dist/cepdistance-promise.min.js",
-  "module": "dist/cepdistance-promise.min.js",
+  "main": "dist/cepdistance-promise.js",
+  "module": "dist/cepdistance-promise.js",
   "author": "David Nery",
   "license": "MIT",
   "dependencies": {
